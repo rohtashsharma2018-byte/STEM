@@ -1,0 +1,6 @@
+{
+  "name": "STEM Academy Website",
+  "description": "Single page website for STEM Academy, featuring courses, educators, testimonials, and enrollment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
